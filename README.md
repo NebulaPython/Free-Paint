@@ -1,7 +1,9 @@
 # Free-Paint
-<img width="1072" height="662" alt="Screenshot_2026-05-11_00-47-49" src="https://github.com/user-attachments/assets/325f8f88-9224-434b-b0ab-754b7a673b9e" />
 
 Free Paint is a lightweight yet powerful creative tool built with Python and enhanced for the Linux ecosystem. Unlike standard script-based applications, Free Paint is compiled into a standalone binary using Nuitka, ensuring maximum execution speed and zero dependencies on the user's local Python environment.
+<img width="1202" height="736" alt="Screenshot_2026-05-11_01-12-21" src="https://github.com/user-attachments/assets/a7332fa6-caa3-44c4-9d32-c0dacb77d0ac" />
+
+
 Key Features
 True Brush Engine: Smooth, circular brush strokes for a natural drawing experience.
 
