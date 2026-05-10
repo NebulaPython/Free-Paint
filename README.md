@@ -29,3 +29,6 @@ sudo apt install ./free-paint_1.1_amd64.deb
 Author: Eduard Milea
 
 Contact: aplicatiipython@outlook.com
+
+## License
+This project is proprietary. It is free for personal use, but commercial redistribution is prohibited without written permission. See the [LICENSE](LICENSE) file for details.
