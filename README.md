@@ -25,7 +25,6 @@ Distribution: Packaged as a native Debian (.deb) file, featuring a custom deskto
 📥 Installation
 Simply download the latest .deb release and install it via your preferred package manager:
 
-Bash
 sudo apt install ./free-paint_1.1_amd64.deb
 Author: Eduard Milea
 
